@@ -1,0 +1,19 @@
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    text-align: center;
+    font-family: вЂњArial BoldвЂќ, sans-serif;
+    background-color: #F0F8FF;
+}
+
+p{
+    text-indent: 30px;
+    text-transform: uppercase;
+}
+
+h2{
+    font-weight: bold;
+}
